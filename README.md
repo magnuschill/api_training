@@ -328,8 +328,9 @@ But wait, how do I create (POST) a new product and what about this `GET /product
 > 1. Add a product in a single request using the `on_post` method. The responses should contain the appropriate status and that data it just created.
 > 2. Display all the products using `on_get` method
 >
-_(Hint: The falcon request object should contain data with all the required columns. Use the Product Model to insert the data into the database)_
+_(Hint: The falcon request object should contain media data with all the required columns. Use the Product Model to insert the data into the database)_
 
+- https://falcon.readthedocs.io/en/stable/api/media.html
 - https://falcon.readthedocs.io/en/stable/api/request_and_response_wsgi.html
 - https://docs.peewee-orm.com/en/latest/peewee/querying.html
 

@@ -235,10 +235,6 @@
                         "type": "number",
                         "format": "double"
                     }
-                },
-                "xml":
-                {
-                    "name": "Product"
                 }
             }
         }
