@@ -15,7 +15,7 @@
 
 > Procedural
 
-1. Please join the slack channel #bootcamp2021_building_apis
+1. Please join the slack channel #bootcamp_group_project_2021
 2. During presentation please use slack for any questions
 3. If you need immediate help use the raise hand reaction in Zoom
 4. You may use any resource - google, stack overflow, each other, but we reccomend you start with the documentation
